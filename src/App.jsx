@@ -4,7 +4,7 @@ import SearchParams from "./SearchParams";
 const App = () => {
   return (
     <div>
-      <h1>Bird Web App</h1>
+      <h1>Feather Finder</h1>
       <SearchParams />
     </div>
   );
