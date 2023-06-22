@@ -1,19 +1,17 @@
-import Pet from "./Pet";
+import Region from "./Region";
 
-const Results = ({ pets }) => {
+const Results = ({ regionCode }) => {
   return (
     <div className="search">
-      {!pets.length ? (
-        <h1>No Pets Found</h1>
+      {!regionCode.length ? (
+        <h1>No Birds Found</h1>
       ) : (
-        pets.map((pet) => (
-          <Pet
-            animal={pet.animal}
-            name={pet.name}
-            breed={pet.breed}
-            images={pet.images}
-            location={`${pet.city}, ${pet.state}`}
-            key={pet.id}
+        regionCode.map((region) => (
+          <Region
+            comName={region.comName}
+            sciName={region.sciName}
+            locName={region.locName}
+            key={region.sciName}
           />
         ))
       )}
