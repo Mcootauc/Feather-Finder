@@ -13,7 +13,7 @@
 ## API
 https://documenter.getpostman.com/view/664302/S1ENwy59 - An API that allows developers to access and integrate data from the eBird platform, facilitating the retrieval of rich bird observation and checklist information for various applications and research purposes.
 
-## How to setup
+# How to setup
 
 CD into FeatherFinder, and run the following command in the terminal.
 
