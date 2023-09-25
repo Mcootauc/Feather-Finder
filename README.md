@@ -1,4 +1,5 @@
-# Feather Finder
+# Feather Finder Preview
+![Feather Finder homepage](https://github.com/Mcootauc/Feather-Finder/assets/73667103/41817d4b-5307-45e4-bf67-c61b25d14122)
 
 # How to setup
 
