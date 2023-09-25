@@ -1,4 +1,4 @@
-# Feather Finder Preview
+# Feather Finder
 An environmental web app designed to help you discover and learn about the birds around the area specified. This app uses the Ebird API, presenting the user with detailed information about each bird. You'll know their common names, scientific names, and exact coordinates.
 
 ![Feather Finder homepage](https://github.com/Mcootauc/Feather-Finder/assets/73667103/41817d4b-5307-45e4-bf67-c61b25d14122)
