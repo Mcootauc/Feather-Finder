@@ -2,20 +2,14 @@
 
 # How to setup
 
-CD into FeatherFinder, and run the following commands in the terminal.
+CD into FeatherFinder, and run the following command in the terminal.
+
+`npm install`
+
+# To launch the app
+
+Run the following command into the terminal.
 
 `npm run dev`
 
-`poetry install`
-
-`poetry run pre-commit install`
-
-To run the backend, run `poetry run flask run`
-
-# To launch app
-
-CD into app, and run the following commands in the terminal
-
-`npm run dev`
-
-Once node_modules folder has been created you can run "npm run dev" anytime to launch the app
+Once the node_modules folder has been created you can run "npm run dev" anytime to launch the app
