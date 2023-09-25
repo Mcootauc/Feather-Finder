@@ -15,7 +15,7 @@ https://documenter.getpostman.com/view/664302/S1ENwy59 - An API that allows deve
 
 # How to setup
 
-CD into FeatherFinder, and run the following command in the terminal.
+CD into the FeatherFinder folder, and run the following command in the terminal.
 
 `npm install`
 
